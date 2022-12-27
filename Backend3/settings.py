@@ -37,7 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Clinica'
+    'rest_framework',
+    'Clinica',
+    'ApiRest'
+    
 ]
 
 MIDDLEWARE = [
